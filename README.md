@@ -4,3 +4,8 @@ Dada una cadena formada sólo por caracteres en minúscula, se crean dos método
 S= ’funeraria jaramillo’
 Retorno método filtro de vocales= ‘ueaiaaaio’
 Retorno método filtro de consonantes= ‘fnrrjrmll’`
+#### Funciones
+- `filtrarCadenaConsonantes(cadena)`. Extrae las consonantes de un texto en orden.
+- `filtrarCadenaVocales(cadena)`. Extrae las vocales de un texto en orden.
+#### Salida
+![Salida](https://raw.githubusercontent.com/efocampo/filtro-alfabeto/main/salida.png)
